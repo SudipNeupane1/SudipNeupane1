@@ -79,4 +79,5 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### ✍️: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+comming soon
 <!-- BLOG-POST-LIST:END -->
