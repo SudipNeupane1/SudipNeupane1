@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sudip-neupane-4040731b5">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCAnLNwvYwza9XBu0ZuuyAkw">
     <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/Sudip_______">
