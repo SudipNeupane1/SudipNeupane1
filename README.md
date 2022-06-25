@@ -34,10 +34,10 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: I'm currently working on something cool 🤨
 
-- :zap: I'm currently learning React and API'S.
+- :godmode: I'm currently learning React and API'S.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sudip-neupane-4040731b5)
-- ☸️:Fun fact:I ❤️ 🐈‍⬛
+- :mailbox:How to reach me: [@SudipNeupane](www.linkedin.com/in/sudip-neupane-4040731b5 "sudipneupane")
+- :zap:Fun fact: I love to play guitar and read Fantasy Novel
 
 
 ---
