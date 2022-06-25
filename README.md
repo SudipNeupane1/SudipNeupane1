@@ -36,7 +36,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :godmode: I'm currently learning React and API'S.
 
-- :mailbox:How to reach me: [@SudipNeupane](www.linkedin.com/in/sudip-neupane-4040731b5 "sudipneupane")
+- :mailbox:How to reach me: [@SudipNeupane](https://www.linkedin.com/in/sudip-neupane-4040731b5 "sudipneupane")
 - :zap:Fun fact: I love to play guitar and read Fantasy Novel
 
 
