@@ -12,7 +12,7 @@
   </a>
  
 </div>  
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=grey" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=SudipNeupane1&style=plastic&color=grey" alt=""/>
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height='30px'/>
@@ -73,7 +73,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### 🔥: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudipNeupane1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudipNeupane1&layout=compact&theme=vision-friendly-dark)](https://github.com/SudipNeupane1)
 
 ---
 
