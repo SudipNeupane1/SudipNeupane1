@@ -31,11 +31,13 @@
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m working as a Software Developer contributing to   backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I working on projects and read tech articles.
+- :seedling: I'm currently working on something cool 🤨
+
+- :zap: I'm currently learning React and API'S.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sudip-neupane-4040731b5)
+- :zap:Fun fact:I ❤️ 🐈‍⬛
 
 
 ---
@@ -66,4 +68,15 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 </div>
 
+---
 
+
+### 🔥: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudipNeupane1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
