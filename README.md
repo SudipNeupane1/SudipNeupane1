@@ -1,26 +1,22 @@
 <div id ="header" align="center">
-  <img src ="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/sudip-neupane-4040731b5">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCAnLNwvYwza9XBu0ZuuyAkw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
   <a href="https://twitter.com/Sudip_______">
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  
 </div>  
-  <img src="https://komarev.com/ghpvc/?username=SudipNeupane1&style=plastic&color=grey" alt=""/>
+
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height='30px'/>
 </h1>
-  </div>
-  
-  <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+
+ 
 </div>
 
 ---
@@ -60,9 +56,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40"height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"title="Linux" alt="linux" width="40"height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg"title="heraku" alt="heraku" width="40"height="40"/>&nbsp;
+  
 
   
 
@@ -71,11 +65,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 
-### 🔥: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudipNeupane1&layout=compact&theme=vision-friendly-dark)](https://github.com/SudipNeupane1)
-
----
 
 ### ✍️: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
