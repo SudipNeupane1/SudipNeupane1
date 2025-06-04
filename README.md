@@ -3,7 +3,7 @@
 I’m blending my background in **Computer Science (BCA)**, **Cloud Computing**, and **CAD Drafting & Design** to build modern, practical solutions.
 
 🔧 **Current Focus**: Learning CAD for mechanical and digital fabrication  
-☁️ **Tech Stack**: AWS, Python, GitHub, Onshape, Fusion 360  
+☁️ **Tech Stack**: AWS, Python, GitHub, Solidworks, Autodesk, Onshape, Fusion 360  
 📍 **Looking for**: Remote freelance roles or entry-level work where I can apply design + cloud + automation
 
 ---
